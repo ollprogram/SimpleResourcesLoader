@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.github.ollprogram</groupId>
+    <artifactId>SimpleResourcesLoader</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>SimpleResourcesLoader</name>
+    <description>A simple resources loader for java maven projects.</description>
+    <url>https://github.com/ollprogram/SimpleResourcesLoader</url>
+
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+    </properties>
+
+</project>
